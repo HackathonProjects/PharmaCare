@@ -1,0 +1,272 @@
+body
+{
+	/*background: linear_gradient(to bottom right,white,#bcddc4);
+	height:4000px;
+	background-image: url("back1.jpg");
+	position: fixed;*/
+  background:linear_gradient (to bottom right,white,#bcbdc4);
+  /*background:url(blanktheme.jpg) no-repeat center center fixed;
+  background-size:cover;*/ 
+ 
+  height: 400px;
+}
+
+.container
+{
+
+  background-color:#17202A;
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  top: 0px;
+  left: 0px;
+  color: white;
+  z-index: 7;
+  font-family: verdana;
+  -webkit-box-shadow:0 3px 8px rgba(0,0,0,0.1);
+}
+
+img
+{
+  width: 1400px;
+  height: 700px;
+}
+
+#home
+{
+  text-decoration: none;
+}
+
+#about
+{
+  text-decoration: none;
+}
+
+#contact
+{
+  text-decoration: none;
+}
+a:link
+{
+  color:white;
+}
+a:hover
+{
+  color:#ff007f;
+}
+a:active
+{
+  color:green;
+}
+#header_1
+{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background:#E5E8E8;
+  top: 100px;
+  left: 0px;
+  color: white;
+  z-index: 7;
+  font-family: verdana;
+}
+#menu
+{
+  position: fixed;
+  left:1000px;
+  word-spacing: 30px;
+  color:#fff;
+  top:25px;
+  font-size: 25px;
+  text-decoration:none;
+}
+#form_1
+{
+  position: relative;
+  left:270px;
+  top:40px;
+
+
+}
+
+.input100 {
+  position: relative;
+  font-family: Montserrat-Bold;
+  font-size: 15px;
+  line-height: 1.2;
+  top:50px;
+  color: #333333;
+  left:300px;
+  display: block;
+  width: 400PX;
+  background: #fff;
+  height: 50px;
+  border-radius: 10px;
+  padding: 0 30px 0 30px;
+}
+#address
+{
+  position: relative;;
+  left:760px;
+  top:-0px;
+}
+#pincode
+{
+  position: relative;;
+  top:20px;
+  left:340px;
+}
+#shop
+{
+  position: relative;;
+  top:50px;
+  left:340px;
+}
+#email
+{
+  
+  position: relative;;
+  top:-30px;
+  left:340px;
+
+}
+
+#Contact_no
+{
+  position: relative;;
+   left:760px;
+  top:-30px;
+}
+#reg_no
+{
+  position: relative;;
+   left:760px;
+  top:-100px;
+}
+#pass
+{
+  position: relative;;
+  left:340px;
+  top:-100px;
+  width: 820px;
+}
+
+.button2 {
+  font-family: Montserrat-Bold;
+  font-size: 15px;
+  line-height: 1.2;
+  top:20px;	
+  color: #fff;
+  position: relative;
+  left:300px;
+  display: block;
+  width: 500px;
+  background:  #154360   ;
+  text-align: center;
+  
+  height: 50px;
+  border-radius: 20px;
+  padding: 0 30px 0 53px;
+}
+#header_2
+{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background:#E5E8E8;
+  top: 100px;
+  left: 0px;
+  color: white;
+  z-index: 7;
+  font-family: verdana;
+}
+
+.input100 {
+	position: relative;
+  font-family: Montserrat-Bold;
+  font-size: 15px;
+  line-height: 1.2;
+  color: #333333;
+  display: block;
+  left: -80px;
+  width: 450px;
+  background: #fff;
+  height: 50px;
+  border-radius: 20px;
+  padding: 0 30px 0 53px;
+}
+
+#btn
+{
+  position: relative;
+  top:-110px;
+  left:530px;
+  font-size: 30px;
+}
+h3
+{
+  position: relative;
+  top:-100px;
+  left: 650px;
+  color:  #f1c40f ;
+}
+h1
+{
+  position: relative;
+  left: 30px;
+  padding: 10px;
+}
+h2
+{
+  position: relative;
+  left: 600px;
+  top:40px;
+  color:blue;
+}
+#email
+{
+	position: relative;
+	top:100px;
+	left: 500px;
+}
+#password
+{
+	position: relative;
+	top: 100px;
+	left:500px;
+}
+.button1 {
+  font-family: Montserrat-Bold;
+  font-size: 15px;
+  line-height: 1.2;
+  top:140px;	
+  color: #fff;
+  position: relative;
+  left:580px;
+  display: block;
+  width: 400px;
+  background: #e74c3c ;
+  text-align: center;
+  font-size: 30px;
+  height: 50px;
+  border-radius: 20px;
+  padding: 0 30px 0 53px;
+}
+
+.button2 {
+  font-family: Montserrat-Bold;
+  font-size: 15px;
+  line-height: 1.2;
+  top:140px;	
+  color: #fff;
+  position: relative;
+  left:580px;
+  display: block;
+  width: 400px;
+  background:#8e44ad;
+  text-align: center;
+  font-size: 30px;
+  height: 50px;
+  border-radius: 20px;
+  padding: 0 30px 0 53px;
+}
